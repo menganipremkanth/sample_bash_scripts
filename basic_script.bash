@@ -7,3 +7,5 @@ ls -lrt $PWD/
 #list hidden files aswell.
 echo "below are hidden files"
 ls -lart $PWD/
+
+echo "you are executing script called $0"
